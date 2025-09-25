@@ -18,7 +18,7 @@ acct_open_date – Account opening date
 
 has_chip – Whether the card is chip-enabled
 
-Credit Card Analysis (shown in screenshot)
+Credit Card Analysis 
 
 KPIs
 
